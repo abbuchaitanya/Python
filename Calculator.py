@@ -1,0 +1,10 @@
+num1    =   input("Enter a Number: ")
+num2    =   input("Enter another Number: ")
+result  =   num1 + num2
+print(result)
+print("***********************")
+result  =   int(num1)   +   int(num2)
+print(result)
+print("***********************")
+result  =   float(num1) +   float(num2)
+print(result)
