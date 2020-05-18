@@ -1,2 +1,5 @@
 Grandfather -   Janaki Rami Reddy
 Grandmother -   Krishnamma
+Daughter1   -   Shanthi
+Daughter2   -   Bharathi
+Son         -   Kumar
