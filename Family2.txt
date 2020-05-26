@@ -2,3 +2,5 @@ Father      -       Chaitanya Abbu
 Mother      -       Kanchana Eddala
 Daughter    -       Tanvi Abbu
 Son         -       Sohan Abbu
+GrandFather -       Mohana Rami Reddy
+GrandMother -       Saradha
