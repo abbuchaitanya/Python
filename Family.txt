@@ -1,2 +1,4 @@
-Grandfather -   Janaki Rami Reddy
-Grandmother -   Krishnamma
+Grandfather   -   Janaki Rami Reddy
+Grandmother   -   Krishnamma
+GrandFather1  -   Mohana Rami Reddy
+GrandMother1  -   Saradha
