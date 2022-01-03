@@ -3,4 +3,5 @@ Python Tutorial Practice
 ## Git  & Git Hub
 GitHub practice
 ### New Branch
-This is Merge-Conflict Branch
+This is Master Branch copied from animation branch. Then new branch created
+
